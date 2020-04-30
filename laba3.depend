@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1588252754 source:c:\users\xonookengg\desktop\laba3\main.cpp
+	<iostream>
+	"product.h"
+	"furniture.h"
+	"wardrobe.h"
+	"rack.h"
+	"sofa.h"
+	"table.h"
+
+1588256159 c:\users\xonookengg\desktop\laba3\product.h
+
+1588256198 c:\users\xonookengg\desktop\laba3\furniture.h
+	"product.h"
+
+1588256267 c:\users\xonookengg\desktop\laba3\wardrobe.h
+	"product.h"
+
+1588253814 c:\users\xonookengg\desktop\laba3\rack.h
+	"product.h"
+
+1588255635 c:\users\xonookengg\desktop\laba3\sofa.h
+	"product.h"
+
+1588253586 c:\users\xonookengg\desktop\laba3\table.h
+	"product.h"
+
+1588253869 source:c:\users\xonookengg\desktop\laba3\rack.cpp
+	<iostream>
+	"rack.h"
+	"product.h"
+
+1588256255 source:c:\users\xonookengg\desktop\laba3\wardrobe.cpp
+	<iostream>
+	"wardrobe.h"
+	"product.h"
+
+1588256189 source:c:\users\xonookengg\desktop\laba3\furniture.cpp
+	<iostream>
+	"product.h"
+	"furniture.h"
+
+1588256159 source:c:\users\xonookengg\desktop\laba3\product.cpp
+	<iostream>
+	"product.h"
+
+1588254183 source:c:\users\xonookengg\desktop\laba3\table.cpp
+	<iostream>
+	"product.h"
+	"table.h"
+
+1588256022 source:c:\users\xonookengg\desktop\laba3\sofa.cpp
+	<iostream>
+	"sofa.h"
+	"product.h"
+
