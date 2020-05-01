@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1588349072 source:c:\users\xonookengg\desktop\laba3 finale\finale\product.cpp
+	<iostream>
+	"product.h"
+
+1588349072 c:\users\xonookengg\desktop\laba3 finale\finale\product.h
+
+1588351390 source:c:\users\xonookengg\desktop\laba3 finale\finale\furniture.cpp
+	<iostream>
+	"product.h"
+	"furniture.h"
+
+1588351390 c:\users\xonookengg\desktop\laba3 finale\finale\furniture.h
+	"product.h"
+
+1588349072 source:c:\users\xonookengg\desktop\laba3 finale\finale\main.cpp
+	<iostream>
+	"product.h"
+	"furniture.h"
+	"wardrobe.h"
+	"rack.h"
+	"sofa.h"
+	"table.h"
+
+1588351439 c:\users\xonookengg\desktop\laba3 finale\finale\wardrobe.h
+	"furniture.h"
+
+1588351491 c:\users\xonookengg\desktop\laba3 finale\finale\rack.h
+	"furniture.h"
+
+1588351522 c:\users\xonookengg\desktop\laba3 finale\finale\sofa.h
+	"furniture.h"
+
+1588350372 c:\users\xonookengg\desktop\laba3 finale\finale\table.h
+	"furniture.h"
+
+1588351491 source:c:\users\xonookengg\desktop\laba3 finale\finale\rack.cpp
+	<iostream>
+	"rack.h"
+	"furniture.h"
+
+1588351516 source:c:\users\xonookengg\desktop\laba3 finale\finale\sofa.cpp
+	<iostream>
+	"sofa.h"
+	"furniture.h"
+
+1588351439 source:c:\users\xonookengg\desktop\laba3 finale\finale\wardrobe.cpp
+	<iostream>
+	"wardrobe.h"
+	"furniture.h"
+
+1588350384 source:c:\users\xonookengg\desktop\laba3 finale\finale\table.cpp
+	<iostream>
+	"furniture.h"
+	"table.h"
+
